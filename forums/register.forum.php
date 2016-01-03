@@ -1,3 +1,6 @@
+<?php
+	include '/core.inc.php';
+?>
 <form action="<?php echo $current_file;?>" method="post" >
 <fieldset>
 <legend>Sign up form</legend>

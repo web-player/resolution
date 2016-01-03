@@ -1,5 +1,6 @@
 <?php
 // login.forum.php
+	include 'core.inc.php';
 ?>
 
 	<form  action="<?php echo $current_file; ?>" method="POST" enctype="" target="" >
