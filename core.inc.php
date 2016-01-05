@@ -7,7 +7,7 @@
 	@session_start();
 	$current_file=$_SERVER['SCRIPT_NAME'];
 	$http_referer=@$_SERVER['HTTP_REFERER'];
-	$debug=1;
+	$debug=0;
 
 	$uid=$_SESSION['id'];
 
