@@ -2,7 +2,7 @@
 	
 	$fname=$current_user->fname ;
 	//echo "$fname";
-	include_once '/functions/islogin.function.php';
+	include '/functions/islogin.function.php';
 	include '/core.inc.php'
 ?>		
 		<div id="menu">
