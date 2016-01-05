@@ -1,7 +1,6 @@
 <?php
 	
 	$fname=$current_user->fname ;
-	//echo "$fname";
 	include '/functions/islogin.function.php';
 	include '/core.inc.php'
 ?>		
