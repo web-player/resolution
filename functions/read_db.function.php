@@ -1,5 +1,5 @@
 <?php
-// function to check wether given key exist in database or not
+// function to check whether given key exist in database or not
 	
 	/*
 		$key=Key against row has to bew readed
