@@ -23,7 +23,7 @@
 		
 		$email_exist=read_db('$emailid','email','user')
 
-		//writting data to database
+		//writing data to database
 		if ($add_acess==1) 
 		{
 			include 'addnewuser.php';
@@ -35,7 +35,7 @@
 		}
 		else
 		{
-			echo "<br>Some internal problem has occured please report it.<br/>
+			echo "<br>Some internal problem has occurred please report it.<br/>
 			you found reporting under contact us page<br>Thanks for your corporation.";
 		}	
 	}
